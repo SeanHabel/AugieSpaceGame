@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 7e9252c578549f34ea3be14f7dceb97f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ObjectToDestroy: {instanceID: 0}
+  - Explosion: {fileID: 100000, guid: 86dc3247bc8332d42967734ad0261cd0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
